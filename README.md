@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![roadmap.sh](https://roadmap.sh/card/wide/652de263f43a58c923dbf234?variant=dark&roadmaps=spring-boot%2Cjava%2Cbackend%2Csoftware-architect)](https://roadmap.sh)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/milo-v/milo-v/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/milo-v/milo-v/output/github-contribution-grid-snake.svg#gh-light-mode-only)
