@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Discord
 <a href="https://discord.com/users/456400350119985172"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/456400350119985172?theme=light&borderRadius=15px&animated=true">
+    <img src="https://lanyard.cnrad.dev/api/456400350119985172?theme=dark&borderRadius=15px&animated=true">
 </a>
 
 ## Developer roadmap
