@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ## Developer roadmap
 [![roadmap.sh](https://roadmap.sh/card/wide/652de263f43a58c923dbf234?variant=dark&roadmaps=spring-boot%2Cjava%2Cbackend%2Csoftware-architect)](https://roadmap.sh)
 
-## Leetcode
-![](https://leetcard.jacoblin.cool/milo-v?animation=true&ext=activity)
+<!--## Leetcode
+![](https://leetcard.jacoblin.cool/milo-v?animation=true&ext=activity)-->
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/456400350119985172)](https://discord.com/users/456400350119985172)-->
 
