@@ -30,11 +30,15 @@ Here are some ideas to get you started:
 
 ## My stats:
 
-<p>
+<!-- p>
   <a href="/"  align="left">
   <img width="auto" src="https://github-readme-stats.vercel.app/api?username=milo-v&theme=transparent&show_icons=true&hide=stars"/>
   </a>
-</p>
+</p> -->
+
+[![](https://raw.githubusercontent.com/milo-v/milo-v/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/milo-v/milo-v/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/milo-v/milo-v/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/milo-v/milo-v/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Commits
 
